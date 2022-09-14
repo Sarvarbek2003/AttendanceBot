@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yutube-api-342208",
+  "private_key_id": "dbce35cc807e876f9346512456a2103dc2084291",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDRFD7NNQzrF+Bj\nkYkdFl761UoSGPTGUI3TdvDZ/FhB2SN15Sos8aOkWw5xLuGzokyE5Gxp34hbfqzZ\nIPHDu9eQwxMoLe1kKY0ODOfcynrBU4iuziSYZ67AChS0TZz5rvd0Zk66BanXlY8E\nDkB6p7ZcMjh4RKuM0rSPv9M3acLkuq47yuVegrzRNUia5etgUxQ2yrfvYpA02ze9\nkWMhCxcRSN63LgAqkN+wSqzBTzmJihIbHVH3QyT22uPOu76dToS90tNfXKSPQ4o7\nmtaMr8aatgHAQUHl9Ecj4qsgWO9LxYBVeXJ9NdJlTZYlPXQNwYycVcS851BAIZ/B\nL8ehgNZrAgMBAAECggEADVzCYMIVt8a4YBSykynVWymbiMmQh0YpskylOwFOMLMs\neYHybpno7/2j0CcDZMQoKMwig6e2IsbXTC83VF+ieM2G4WgCBodDTRUVEn7cVpO8\nphNlslnaCMr8JMPbFvgQN5+8Q1ZOUwlrcQJqK4yhcoYBJuqYnjDvOkqzuJRpUM3h\n0uMiEeSp53ww8Ao/NZB3jE8pZ+9KB3Fd0NHNbAs63eMeiTjNEhuYXwyujsV6372a\n03AS73vQLrt9BPAALBg9TTptmVC1YI03IUDjnWM1eBzFt9ORlxgIcYX83QwawM2G\n8eNJmGVVKl7varqXkfnC0JqLu7KDePl2n5LspLImDQKBgQD/MTJGSUdpoPIBmrUl\nzhQMcOjw2N8d8dS6W6cZeo+C/QPvy7iiEUaZsCErrOGVodizq0F1LsrQGVm+sveA\n7JdAELwVc0AXfvuD20C0OQIo0lkAL6QophvmkdnEum2RmD8pErkb2BlRhOzYo6up\nmWPe8lpSr9R/rqEXDe/u+oYrlQKBgQDRva38QiP1g3DgnG6Mb5SfJlDpKAMogbXD\n7xBhjrp54diqE/2ljabm1A+dC4CjvR/O5QgPS4avOl2O0c969P31pnlO2lZjm8gP\nRW18jaFmsbQkhPPsnz7fa8csMdjriQeIZ/1WRFz7IlHmsNhV1X7ZQClytWHVB+UZ\nvCuCvbp5/wKBgCBjoBvnpRa1BMJLXn6D32uM0SPwgrEMRpG4nEbRlXFsp5lB5Bc9\n1hYfkrY2ZRNWzWhQbihvXfJ3pTpdAKjuXmwVM6oNTK8uwMGFjHrTWYDQ4dbyNQWr\nv5LOJDOh7dIy3qFZ7QCpttzv4BfG/jyyaUicvfYMtw3VnkCM1k0govLZAoGAc7Lm\nnxj9LRns0np4oQ+MNJ62U2e3Fkk3M3ZU2vwY8dMb6fZNHV4ei4a/dio6NBjHyyGc\naJOJIHBZ28bxZSpwTWof0NewgBIXMhViaCrYtgWhEeQliont7OFPZZm5x3Q3q49x\nuHzNrdsowtEbBX5YEw/JzXUxGorYXnHmrqBqlZECgYAONkEFh8wkMrvYwJuwa/hK\nBYKbtf2GR+2dh6aMuN+8Szq1BSyvEaqDHwxqK8do8bc0NQnMnzuGN452PuqEersP\nBAjDEgIx6fJHckREVEv8ZgBaySYGofHBc+ncgLS22peN9XRpc7+Gsac9mupc/MEB\ngOGqH4AwK+d2LsBHf78gHw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-odilov@yutube-api-342208.iam.gserviceaccount.com",
+  "client_id": "113008963898782151109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-odilov%40yutube-api-342208.iam.gserviceaccount.com"
+}

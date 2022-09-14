@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "node-telegram-bot-api": "^0.59.0"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
