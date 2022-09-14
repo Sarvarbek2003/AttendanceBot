@@ -53,10 +53,12 @@ bot.on('message', async msg => {
                 }
             });
             clearInterval(interval)
-            bot.editMessageText("✅ Amalyot muvoffaqyatli bajarildi",{
-                chat_id: chatId,
-                message_id: msgId
-            })
+            setTimeout(() => {
+                bot.editMessageText("✅ Amalyot muvoffaqyatli bajarildi",{
+                    chat_id: chatId,
+                    message_id: msgId
+                })
+            }, 1000);
         } catch (error) {
             clearInterval(interval)
             bot.deleteMessage(chatId, msgId)
@@ -80,10 +82,12 @@ bot.on('message', async msg => {
                 if(username) txt += `👤 ${username}: \n➡️ L: ${l}     E: ${e}      U:${u}\n🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰\n`
             });
             clearInterval(interval)
-            return bot.editMessageText(txt == '' ? 'Ma\'lumot topilmadi':txt,{
-                chat_id:chatId,
-                message_id: msgId
-            })
+            setTimeout(() => {
+                return bot.editMessageText(txt == '' ? 'Ma\'lumot topilmadi':txt,{
+                    chat_id:chatId,
+                    message_id: msgId
+                })
+            }, 1000);
         } catch (error) {
             clearInterval(interval)
             bot.deleteMessage(chatId, msgId)
@@ -105,10 +109,12 @@ bot.on('message', async msg => {
                 if(e > 0 && username) txt += `👤 ${username}: \n➡️ L: ${l}     E: ${e}      U:${u}\n🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰\n`
             });
             clearInterval(interval)
-            return bot.editMessageText(txt == '' ? 'Ma\'lumot topilmadi':txt,{
-                chat_id: chatId,
-                message_id: msgId
-            })
+            setTimeout(() => {
+                return bot.editMessageText(txt == '' ? 'Ma\'lumot topilmadi':txt,{
+                    chat_id:chatId,
+                    message_id: msgId
+                })
+            }, 1000);
         } catch (error) {
             clearInterval(interval)
             bot.deleteMessage(chatId, msgId)
@@ -130,10 +136,12 @@ bot.on('message', async msg => {
                 if(u > 0 && username) txt += `👤 ${username}: \n➡️ L: ${l}     E: ${e}      U:${u}\n🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰\n`
             });
             clearInterval(interval)
-            return bot.editMessageText( txt == '' ? 'Ma\'lumot topilmadi':txt, {
-                chat_id: chatId,
-                message_id: msgId
-            })
+            setTimeout(() => {
+                return bot.editMessageText(txt == '' ? 'Ma\'lumot topilmadi':txt,{
+                    chat_id:chatId,
+                    message_id: msgId
+                })
+            }, 1000);
         } catch (error) {
             clearInterval(interval)
             bot.deleteMessage(chatId, msgId)
@@ -155,10 +163,12 @@ bot.on('message', async msg => {
                 if(l > 0 && username) txt += `👤 ${username}: \n➡️ L: ${l}     E: ${e}      U:${u}\n🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰\n`
             });
             clearInterval(interval)
-            return bot.editMessageText(txt == '' ? 'Ma\'lumot topilmadi':txt,{
-                chat_id: chatId,
-                message_id: msgId
-            })
+            setTimeout(() => {
+                return bot.editMessageText(txt == '' ? 'Ma\'lumot topilmadi':txt,{
+                    chat_id:chatId,
+                    message_id: msgId
+                })
+            }, 1000);
         } catch (error) {
             clearInterval(interval)
             bot.deleteMessage(chatId, msgId)
